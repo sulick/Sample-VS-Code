@@ -24,3 +24,5 @@ def fib(n):
         a, b = b, a + b
 
 print(list(fib(a)))
+plt.plot(np.power(f(x),np.abs(x)))
+plt.show()
